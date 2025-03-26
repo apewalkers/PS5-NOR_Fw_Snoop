@@ -3,7 +3,7 @@
 ## 📜 Description
 This Python program helps you extract and analyze firmware details from `.BIN` files. It scans the firmware for a specific range of data, extracts EMC  details, and stores them in a dedicated `/EMC/` directory.
 
-### Buggy with 69GG at the moment. still can extract the MD5 and EMC SLB but cant find the Translated Version.
+>  Buggy with 69GG at the moment. still can extract the MD5 and EMC SLB but cant find the Translated Version.
 
 ## 🚀 Getting Started
 
