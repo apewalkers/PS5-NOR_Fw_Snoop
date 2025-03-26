@@ -55,7 +55,7 @@ A working environment with .BIN files to scan and extract data from.
 # 📂 Folder Structure
 /EMC/ – Contains the extracted SLB container files.
 
-/firmware/ – Your directory with the .BIN files to be processed.
+ ROOT directory with the .BIN files to be processed.
 
 # ⚠️ Troubleshooting
 Python Not Installed: If Python is not found, the script will prompt you to install Python 3.x.
