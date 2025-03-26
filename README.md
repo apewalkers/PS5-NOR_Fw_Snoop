@@ -1,7 +1,7 @@
 # 🐍 EMC Snoop
 
 ## 📜 Description
-This Python program helps you extract and analyze firmware details from `.BIN` files. It scans the firmware for a specific range of data, extracts EMC (Embedded Metadata Container) details, and stores them in a dedicated `/EMC/` directory.
+This Python program helps you extract and analyze firmware details from `.BIN` files. It scans the firmware for a specific range of data, extracts EMC  details, and stores them in a dedicated `/EMC/` directory.
 
 ## 🚀 Getting Started
 
